@@ -1,1 +1,1 @@
-# document solutions for common cross-browsing issues
+# document solutions for common cross-browser issues
